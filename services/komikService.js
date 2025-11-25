@@ -62,7 +62,7 @@ async function deleteKomik(database, id) {
 module.exports = {
     createKomik,
     getAllKomik,
-    getKomikById,
+    getKomikbyId,
     updateKomik,
     deleteKomik,
 };
